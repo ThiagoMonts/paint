@@ -15,6 +15,8 @@ Paint criado utilizando HTML, CSS e JavaScript, usando o elemento Canvas, além 
   <img alt="" src="#" width="100%">
 </p>
 
+<br>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -25,14 +27,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 
+
+<br>
 ## 💻 Projeto
 
 
+
+<br>
 
 ## 🔖 Layout
 
 Você pode navegar pelo projeto através [DESSE LINK](#).
 
+
+<br>
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
